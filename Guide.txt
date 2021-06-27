@@ -1,0 +1,10 @@
+1. npm install chat-server, client-frontend and server
+
+2. In, server -> routes -> userRoutes -> 11th and 12 the line please 
+enter your email and password (In order to execute the email authenication part).
+
+3. For testing purposes you can use the mongoDB Atles database that we have created.
+Make sure to update it when needed. (server -> .env -> MONGO_URI)
+
+4. When sign up and creating a new project make sure to upload a photoit's size is not exceeding 1mb. 
+For testing you can use the images in 1.images folder
